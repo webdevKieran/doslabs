@@ -5,6 +5,6 @@ Link to repo(https://github.com/webdevKieran/doslabs)
 
 ---
 
-To run the script.sh run: 'bash script'sh'
+To run the script.sh run: 'bash script.sh'
 
 
